@@ -1,0 +1,4 @@
+﻿  Исходный код.cpp
+d:\учеба\с++\1\consoleapplication1\consoleapplication1\исходный код.cpp(70): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+d:\учеба\с++\1\consoleapplication1\consoleapplication1\исходный код.cpp(107): warning C4101: z: неиспользованная локальная переменная
+  ConsoleApplication1.vcxproj -> D:\Учеба\с++\1\ConsoleApplication1\Debug\ConsoleApplication1.exe
